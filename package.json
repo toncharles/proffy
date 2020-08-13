@@ -1,0 +1,26 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "Sistema Web para aulas online",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toncharles/proffy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toncharles/proffy/issues"
+  },
+  "homepage": "https://github.com/toncharles/proffy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
